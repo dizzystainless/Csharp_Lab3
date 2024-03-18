@@ -21,7 +21,7 @@ namespace Lab3
             Console.ForegroundColor = ConsoleColor.White;
             Console.Clear();
 
-            string ImagePath = @"C:../../pink.jpg";
+            string ImagePath = @"C:../../pink.png";
 
             //Kontrollera om det finns en fil för den aktuella sökvägen
             //med ett villkor om den inte existerar
